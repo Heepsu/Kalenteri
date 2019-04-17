@@ -1,6 +1,6 @@
 HARJOITUSTYÖ
 
-Olio-ohjelmoinnin perusteet 2019
+Olio-ohjelmoinnin perusteet 2019,
 Turun yliopisto
 
 ________________________________________________________________________________

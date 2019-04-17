@@ -1,1 +1,12 @@
-# Kalenteri
+HARJOITUSTYÖ
+
+Olio-ohjelmoinnin perusteet 2019
+Turun yliopisto
+
+________________________________________________________________________________
+
+Käynnistä sovellus ajamalla Main-luokka.
+
+________________________________________________________________________________
+
+Icons made by Hadrien from www.flaticon.com 
